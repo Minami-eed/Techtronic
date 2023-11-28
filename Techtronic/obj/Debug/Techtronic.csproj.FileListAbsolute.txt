@@ -1,0 +1,258 @@
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Techtronic.dll.config
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Techtronic.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Techtronic.pdb
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\csc.exe
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\csc.exe.config
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\csc.rsp
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\csi.exe
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\csi.exe.config
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\csi.rsp
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.AppContext.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Collections.Immutable.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Console.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Globalization.Calendars.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.IO.Compression.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.IO.FileSystem.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Net.Http.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Net.Sockets.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Reflection.Metadata.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.ValueTuple.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Xml.XPath.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\vbc.exe
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\vbc.exe.config
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\vbc.rsp
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\VBCSCompiler.exe
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\roslyn\VBCSCompiler.exe.config
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Antlr3.Runtime.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Microsoft.Web.Infrastructure.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Newtonsoft.Json.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Helpers.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Mvc.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Optimization.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Razor.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.WebPages.Deployment.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.WebPages.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.WebPages.Razor.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\WebGrease.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Helpers.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Mvc.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Optimization.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.Razor.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.WebPages.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.WebPages.Deployment.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\System.Web.WebPages.Razor.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Newtonsoft.Json.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Antlr3.Runtime.pdb
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.Helpers.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.Mvc.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.Optimization.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.Razor.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.WebPages.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.AssemblyReference.cache
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.CopyComplete
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\obj\Debug\Techtronic.dll
+D:\CIBERTEC\CICLO 6\DESARROLLO DE SERVICIOS WEB I\Techtronic\Techtronic\obj\Debug\Techtronic.pdb
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Techtronic.dll.config
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Techtronic.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Techtronic.pdb
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\csc.exe
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\csc.exe.config
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\csc.rsp
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\csi.exe
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\csi.exe.config
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\csi.rsp
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.AppContext.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Collections.Immutable.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Console.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Globalization.Calendars.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.IO.Compression.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.IO.FileSystem.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Net.Http.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Net.Sockets.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Reflection.Metadata.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.ValueTuple.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Xml.XPath.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\vbc.exe
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\vbc.exe.config
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\vbc.rsp
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\VBCSCompiler.exe
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\roslyn\VBCSCompiler.exe.config
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Antlr3.Runtime.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Microsoft.Web.Infrastructure.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Newtonsoft.Json.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Helpers.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Mvc.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Optimization.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Razor.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.WebPages.Deployment.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.WebPages.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.WebPages.Razor.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\WebGrease.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Helpers.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Mvc.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Optimization.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.Razor.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.WebPages.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.WebPages.Deployment.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\System.Web.WebPages.Razor.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Newtonsoft.Json.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Antlr3.Runtime.pdb
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.Helpers.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.Mvc.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.Optimization.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.Razor.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.WebPages.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.AssemblyReference.cache
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.CoreCompileInputs.cache
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.CopyComplete
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\obj\Debug\Techtronic.dll
+D:\CIBERTEC\6to Ciclo\DSWI\Project\Techtronic\Techtronic\obj\Debug\Techtronic.pdb
+D:\Repository\Techtronic\Techtronic\bin\Techtronic.dll.config
+D:\Repository\Techtronic\Techtronic\bin\Techtronic.dll
+D:\Repository\Techtronic\Techtronic\bin\Techtronic.pdb
+D:\Repository\Techtronic\Techtronic\bin\roslyn\csc.exe
+D:\Repository\Techtronic\Techtronic\bin\roslyn\csc.exe.config
+D:\Repository\Techtronic\Techtronic\bin\roslyn\csc.rsp
+D:\Repository\Techtronic\Techtronic\bin\roslyn\csi.exe
+D:\Repository\Techtronic\Techtronic\bin\roslyn\csi.exe.config
+D:\Repository\Techtronic\Techtronic\bin\roslyn\csi.rsp
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repository\Techtronic\Techtronic\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.AppContext.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Collections.Immutable.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Console.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Globalization.Calendars.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.IO.Compression.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.IO.FileSystem.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Net.Http.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Net.Sockets.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.ValueTuple.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Xml.XPath.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repository\Techtronic\Techtronic\bin\roslyn\vbc.exe
+D:\Repository\Techtronic\Techtronic\bin\roslyn\vbc.exe.config
+D:\Repository\Techtronic\Techtronic\bin\roslyn\vbc.rsp
+D:\Repository\Techtronic\Techtronic\bin\roslyn\VBCSCompiler.exe
+D:\Repository\Techtronic\Techtronic\bin\roslyn\VBCSCompiler.exe.config
+D:\Repository\Techtronic\Techtronic\bin\Antlr3.Runtime.dll
+D:\Repository\Techtronic\Techtronic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repository\Techtronic\Techtronic\bin\Microsoft.Web.Infrastructure.dll
+D:\Repository\Techtronic\Techtronic\bin\Newtonsoft.Json.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Helpers.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Mvc.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Optimization.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Razor.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.WebPages.Deployment.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.WebPages.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.WebPages.Razor.dll
+D:\Repository\Techtronic\Techtronic\bin\WebGrease.dll
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Helpers.xml
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Mvc.xml
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Optimization.xml
+D:\Repository\Techtronic\Techtronic\bin\System.Web.Razor.xml
+D:\Repository\Techtronic\Techtronic\bin\System.Web.WebPages.xml
+D:\Repository\Techtronic\Techtronic\bin\System.Web.WebPages.Deployment.xml
+D:\Repository\Techtronic\Techtronic\bin\System.Web.WebPages.Razor.xml
+D:\Repository\Techtronic\Techtronic\bin\Newtonsoft.Json.xml
+D:\Repository\Techtronic\Techtronic\bin\Antlr3.Runtime.pdb
+D:\Repository\Techtronic\Techtronic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.Helpers.resources.dll
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.Mvc.resources.dll
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.Optimization.resources.dll
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.Razor.resources.dll
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.WebPages.resources.dll
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Repository\Techtronic\Techtronic\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Repository\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.AssemblyReference.cache
+D:\Repository\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.CoreCompileInputs.cache
+D:\Repository\Techtronic\Techtronic\obj\Debug\Techtronic.csproj.CopyComplete
+D:\Repository\Techtronic\Techtronic\obj\Debug\Techtronic.dll
+D:\Repository\Techtronic\Techtronic\obj\Debug\Techtronic.pdb

@@ -1,0 +1,133 @@
+﻿@model Techtronic.Models.Usuario
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Registrarse / Techtronic</title>
+    @Styles.Render("~/Content/css")
+    <style>
+        /* Estilo personalizado para el botón */
+        .btn-back {
+            background-color: #20ad6b; /* Color de fondo del botón */
+            color: white; /* Color del texto del botón */
+            border: none; /* Sin borde */
+            padding: 10px 15px; /* Espacio interno del botón */
+            cursor: pointer; /* Cambiar el cursor a una mano */
+            position: absolute; /* Posición absoluta */
+            left: 0; /* Alineado a la izquierda */
+        }
+    </style>
+</head>
+<body class="bg-dark">
+    <div id="layoutAuthentication">
+        <div id="layoutAuthentication_content">
+            <main>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-7">
+                            <div class="card shadow-lg border-0 rounded-lg mt-5">
+                                <div class="d-inline-flex justify-content-center" style="background-color: #20ad6b;">
+                                    <!-- Agregamos un botón con la clase 'btn-back' y el atributo 'onclick' para llamar a una función de JavaScript que retroceda a la pestaña anterior -->
+                                    <button class="btn-back py-4" onclick="window.history.back();">
+                                        <!-- Agregamos el código SVG del icono de la flecha hacia la izquierda -->
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+                                            <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5a.5.5 0 0 0 .5-.5z" />
+                                        </svg>
+                                    </button>
+
+                                    <!-- Usamos la clase 'align-self-center' para alinear el título verticalmente -->
+                                    <h3 class="text-center font-weight-light my-4 align-self-center" style="color: white;">Crear Cuenta</h3>
+                                </div>
+
+                                <div class="card-body">
+                                    <form action="@Url.Action("Registrarse","Login")" method="post">
+                                        <div class="row mb-3">
+                                            <div class="col-md-6">
+                                                <div class="form-floating mb-3 mb-md-0">
+                                                    <input class="form-control" id="inputFirstName" name="NNombres" type="text" placeholder="Nombres" value="@Html.DisplayTextFor(model => model.Nombres)" />
+                                                    <label for="inputFirstName">Nombres</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-floating">
+                                                    <input class="form-control" id="inputLastName" name="NApellidos" type="text" placeholder="Apellidos" value="@Html.DisplayTextFor(model => model.Apellidos)" />
+                                                    <label for="inputLastName">Apellidos</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-floating mb-3">
+                                            <input class="form-control" id="inputEmail" type="email" name="NCorreo" placeholder="name@example.com" value="@Html.DisplayTextFor(model => model.Correo)" />
+                                            <label for="inputEmail">Correo</label>
+                                        </div>
+                                        <div class="row mb-3">
+                                            <div class="col-md-6">
+                                                <div class="form-floating mb-3 mb-md-0">
+                                                    <input class="form-control" id="inputPassword" name="NContrasena" type="password" placeholder="Contraseña" value="@Html.DisplayTextFor(model => model.Contrasena)" />
+                                                    <label for="inputPassword">Password</label>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-floating mb-3 mb-md-0">
+                                                    <input class="form-control" id="inputPasswordConfirm" name="NConfirmarContrasena" type="password" placeholder="Confirmar contraseña" value="@Html.DisplayTextFor(model => model.ConfirmarContrasena)" />
+                                                    <label for="inputPasswordConfirm">Confirmar Contraseña</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-floating">
+                                            @{if (ViewBag.Error != null)
+                                                {
+                                                    <div class="alert alert-danger" role="alert">
+                                                        @ViewBag.Error
+                                                    </div>
+                                                }
+                                            }
+                                        </div>
+                                        <div class="mt-4 mb-0">
+                                            <div class="d-grid">
+                                                <button class="btn btn-success btn-block" type="submit">Registrarse</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="card-footer text-center py-3">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <div id="layoutAuthentication_footer">
+            <footer class="py-4 bg-light mt-auto border-top">
+                <div class="container-fluid px-4">
+                    <div class="d-flex align-items-center justify-content-between small">
+                        <span class="text-muted" style="font-size: 1rem;">
+                            &copy;
+                            <a href="@Url.Action("Index","Home")" style="color: inherit; text-decoration: none;">Techtronic</a>
+                            <script>
+                                var year = new Date().getFullYear();
+                                document.write(year);
+                            </script>
+                        </span>
+
+                        <div class="text-muted" style="font-size: 1rem;">
+                            <svg height="32" viewBox="0 0 16 16" version="1.1" width="25">
+                                <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+                            </svg>
+                            <a href="https://github.com/Minami-eed/Techtronic" target="_blank" style="color: black; text-decoration: none; margin-left: 5px;">Source</a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

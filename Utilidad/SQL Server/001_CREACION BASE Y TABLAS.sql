@@ -1,0 +1,111 @@
+USE MASTER
+GO
+
+-- Crear la base de datos
+CREATE DATABASE DB_TECTRONIC
+GO
+
+USE DB_TECTRONIC
+GO
+
+-- Tabla CATEGORIA
+CREATE TABLE CATEGORIA (
+    IdCategoria INT PRIMARY KEY IDENTITY,
+    Descripcion VARCHAR(100),
+    Activo BIT DEFAULT 1,
+    FechaRegistro DATETIME DEFAULT GETDATE()
+)
+GO
+
+-- Tabla MARCA
+CREATE TABLE MARCA (
+    IdMarca INT PRIMARY KEY IDENTITY,
+    Descripcion VARCHAR(100),
+    Activo BIT DEFAULT 1,
+    FechaRegistro DATETIME DEFAULT GETDATE()
+)
+GO
+
+-- Tabla PRODUCTO
+CREATE TABLE PRODUCTO (
+    IdProducto INT PRIMARY KEY IDENTITY,
+    Nombre VARCHAR(500),
+    Descripcion VARCHAR(500),
+    IdMarca INT REFERENCES MARCA(IdMarca),
+    IdCategoria INT REFERENCES CATEGORIA(IdCategoria),
+    Precio DECIMAL(10,2) DEFAULT 0,
+    Stock INT,
+    RutaImagen VARCHAR(100),
+    Activo BIT DEFAULT 1,
+    FechaRegistro DATETIME DEFAULT GETDATE()
+)
+GO
+
+-- Tabla USUARIO
+CREATE TABLE USUARIO (
+    IdUsuario INT PRIMARY KEY IDENTITY,
+    Nombres VARCHAR(100),
+    Apellidos VARCHAR(100),
+    Correo VARCHAR(100),
+    Contrasena VARCHAR(100),
+    EsAdministrador BIT,
+    Activo BIT DEFAULT 1,
+    FechaRegistro DATETIME DEFAULT GETDATE()
+)
+GO
+
+-- Tabla CARRITO
+CREATE TABLE CARRITO (
+    IdCarrito INT PRIMARY KEY IDENTITY,
+    IdUsuario INT REFERENCES USUARIO(IdUsuario),
+    IdProducto INT REFERENCES PRODUCTO(IdProducto)
+)
+GO
+
+-- Tabla COMPRA
+CREATE TABLE COMPRA (
+    IdCompra INT PRIMARY KEY IDENTITY,
+    IdUsuario INT REFERENCES USUARIO(IdUsuario),
+    TotalProducto INT,
+    Total DECIMAL(10,2),
+    Contacto VARCHAR(50),
+    Telefono VARCHAR(50),
+    Direccion VARCHAR(500),
+    IdDistrito VARCHAR(10),
+    FechaCompra DATETIME DEFAULT GETDATE()
+)
+GO
+
+-- Tabla DETALLE_COMPRA
+CREATE TABLE DETALLE_COMPRA (
+    IdDetalleCompra INT PRIMARY KEY IDENTITY,
+    IdCompra INT REFERENCES COMPRA(IdCompra),
+    IdProducto INT REFERENCES PRODUCTO(IdProducto),
+    Cantidad INT,
+    Total DECIMAL(10,2)
+)
+GO
+
+-- Tabla DEPARTAMENTO
+CREATE TABLE DEPARTAMENTO (
+    IdDepartamento VARCHAR(2) NOT NULL,
+    Descripcion VARCHAR(45) NOT NULL
+)
+GO
+
+-- Tabla PROVINCIA
+CREATE TABLE PROVINCIA (
+    IdProvincia VARCHAR(4) NOT NULL,
+    Descripcion VARCHAR(45) NOT NULL,
+    IdDepartamento VARCHAR(2) NOT NULL
+)
+GO
+
+-- Tabla DISTRITO
+CREATE TABLE DISTRITO (
+    IdDistrito VARCHAR(6) NOT NULL,
+    Descripcion VARCHAR(45) NOT NULL,
+    IdProvincia VARCHAR(4) NOT NULL,
+    IdDepartamento VARCHAR(2) NOT NULL
+)
+GO
